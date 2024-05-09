@@ -1,0 +1,5 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20:v36-20240502-f4453db","time":"2024-05-09T05:45:32Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v9-20240429-0325cbb","time":"2024-05-09T05:45:32Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-mime-1.6.0-32cd9e5c64553bd58d19a568af452acff04981b1-integrity/node_modules/mime/.bin/mime","time":"2024-05-09T05:45:34Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2024-05-09T05:45:35Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/send/node_modules/.bin/mime","time":"2024-05-09T05:45:36Z"}
